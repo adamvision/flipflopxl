@@ -1,5 +1,12 @@
 {
     "android": "56874564165456 ",
-    "pc": "",
+    "pc": "Headphones accessory 3d audio improved
+Rain should now always land correctly?
+Global / Friends leaderboard should correctly show now
+(Twitch) chatter names now always fit
+(Twitch) reroll no longer clears score
+(Twitch) press "x" on keyboard to clear all queues, double tap to clear all scores
+(Twitch) chat auto-joining now has three queue levels. Priority (for 100 bits), Standard (for anyone chatting in chat or using commands) and Previous (if chat isn't chatting, it'll pull in previous chatters to keep flipping)
+(Twitch) Changed greenscreen modes, now is transparent mode and OBS Game Capture can use transparencies for an improved overlay, WAY better.",
     "ios": "Welcome to our game on iOS!"
 }
