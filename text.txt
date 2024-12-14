@@ -1,1 +1,5 @@
-
+{
+    "android": "Welcome to our game on Android!",
+    "pc": "Welcome to our game on PC!",
+    "ios": "Welcome to our game on iOS!"
+}
