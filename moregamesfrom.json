@@ -1,7 +1,7 @@
 {
     "games": [
         {
-            "imageUrl": "https://adamvision.github.io/flipflopxl/main/Orbt.png",
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/flipflopxl/main/Orbt.png",
             "platformUrls": {
                 "android": "https://play.google.com/store/apps/details?id=com.NVS.orbtxl",
                 "ios": "https://apps.apple.com/app/orbt-xl/id1447210308",
@@ -9,7 +9,7 @@
             }
         },
         {
-            "imageUrl": "https://adamvision.github.io/flipflopxl/main/Poosh.png",
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/flipflopxl/main/Poosh.png",
             "platformUrls": {
                 "android": "https://play.google.com/store/apps/details?id=com.adamvision.pooshxl",
                 "ios": "https://apps.apple.com/us/app/poosh-xl/id1667181019",
